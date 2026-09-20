@@ -1,13 +1,12 @@
 [English](README.md) · [简体中文](README.zh-CN.md)
 
-
 # Julius
 
-**Research design · Financial agents · Quantum optimization**
+**Quantum computing · Quantum machine learning · Research systems**
 
 I explore how a research question becomes a model, an experiment and a usable system. Over the past year, my work has moved from adaptive portfolio policies to financial research agents and a quantum-finance research workbench.
 
-I am interested in research assistant opportunities and collaboration in quantitative methods, agent systems and quantum machine learning. The repositories below provide methods, implementation context, reported results and the questions I want to pursue next.
+My current priority is quantum computing and quantum machine learning. I am interested in research assistant opportunities where I can connect mathematical questions, experimental design and research software, drawing on my work in quantitative methods and agent systems. The repositories below provide methods, implementation context, reported results and the questions I want to pursue next.
 
 ## Selected work
 
@@ -30,5 +29,8 @@ I want to make the problem, method, comparison and next decision understandable 
 
 To discuss a project, open an Issue in its repository. For the broader direction, read [Julius' future](https://github.com/Soros2040/julius-future).
 
+## Complete works and close reading
+
+Three complete Chinese manuscripts and PDFs are available in [Julius’ future / works](https://github.com/Soros2040/julius-future/tree/main/works), with bilingual guides, original figures and equation/table maps. Seven bilingual cases across the research projects follow derivations and existing examples into source, results and limitations. Q-Fintelligence already studies fixed-catalogue quantum kernels and local observables; systematic kernel self-design is a direction for the next research discussion.
 
 Original profile text: [CC BY-NC-SA 4.0](LICENSE).
